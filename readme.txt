@@ -1,1 +1,2 @@
-Creating a new branch is quick & sb.
+Creating a new branch is quick AND sb.
+
